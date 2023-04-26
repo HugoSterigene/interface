@@ -1,0 +1,11 @@
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\bin\x64\test\Form1.resx
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\bin\x64\test\Oskeyboard.exe.config
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\bin\x64\test\Oskeyboard.exe
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Osk.csproj.AssemblyReference.cache
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Osk.csproj.SuggestedBindingRedirects.cache
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Oskeyboard.CustomKeyBuilder.resources
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Oskeyboard.Form1.resources
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Oskeyboard.Properties.Resources.resources
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Osk.csproj.GenerateResource.cache
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Osk.csproj.CoreCompileInputs.cache
+C:\Users\volquardsen\source\repos\OnscreenKeyboard\obj\x64\test\Oskeyboard.exe

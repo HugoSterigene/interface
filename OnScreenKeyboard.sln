@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osk", "Osk.csproj", "{944AF09F-F359-4FD6-932E-B7420A94968F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OSKeyboard", "..\OSKeyboard\OSKeyboard.vdproj", "{6FACE948-8AAB-43DD-A77C-2669C0A6F321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		test|Any CPU = test|Any CPU
+		test|x64 = test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Debug|x64.ActiveCfg = x64|x64
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Debug|x64.Build.0 = x64|x64
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Release|x64.ActiveCfg = Release|x64
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.Release|x64.Build.0 = Release|x64
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.test|Any CPU.ActiveCfg = test|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.test|Any CPU.Build.0 = test|Any CPU
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.test|x64.ActiveCfg = test|x64
+		{944AF09F-F359-4FD6-932E-B7420A94968F}.test|x64.Build.0 = test|x64
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.Debug|Any CPU.ActiveCfg = Debug
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.Debug|x64.ActiveCfg = Debug
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.Release|Any CPU.ActiveCfg = Release
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.Release|x64.ActiveCfg = Release
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.test|Any CPU.ActiveCfg = Release
+		{6FACE948-8AAB-43DD-A77C-2669C0A6F321}.test|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9708A9-85A2-4944-90D7-99866E43227D}
+	EndGlobalSection
+EndGlobal
