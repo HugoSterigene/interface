@@ -1318,7 +1318,6 @@ namespace Oskeyboard
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "The Approach";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
             this.panel1.ResumeLayout(false);
             this.contextMenuStrip1.ResumeLayout(false);

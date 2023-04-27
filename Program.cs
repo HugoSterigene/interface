@@ -3,20 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace Oskeyboard
 {
     static class Program
     {
-        /// <summary>
-        /// Uygulamanın ana girdi noktası.
-        /// </summary>
+        public static void Application_main()
+        {
+            Application.Run(new Form1());
+        }
         [STAThread]
         static void Main()
         {
+            ThreadStart mainApp = new ThreadStart(Application_main);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Thread app = new Thread(mainApp);
+            app.Start();
         }
     }
 }
