@@ -1,0 +1,13 @@
+debug/admin_main.o
+debug/logger.o
+debug/lux_thread.o
+debug/luxmeter.o
+debug/main.o
+debug/mainwindow.o
+debug/profil.o
+debug/user_profils.o
+debug/moc_admin_main.o
+debug/moc_lux_thread.o
+debug/moc_luxmeter.o
+debug/moc_mainwindow.o
+debug/moc_profil.o

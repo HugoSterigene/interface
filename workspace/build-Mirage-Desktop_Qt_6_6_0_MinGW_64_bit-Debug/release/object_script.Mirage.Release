@@ -1,0 +1,13 @@
+release/admin_main.o
+release/logger.o
+release/lux_thread.o
+release/luxmeter.o
+release/main.o
+release/mainwindow.o
+release/profil.o
+release/user_profils.o
+release/moc_admin_main.o
+release/moc_lux_thread.o
+release/moc_luxmeter.o
+release/moc_mainwindow.o
+release/moc_profil.o

@@ -1,0 +1,25 @@
+2023-05-05_11-20-47 [log]: adrien trying to connect 
+2023-05-05_11-20-47 [log]: adrien loging successful 
+2023-05-05_11-20-53 [log]: capturing luxmeter values for 30 secondes
+2023-05-05_11-20-54 [log]: ./capture/2023-05-05_11-20-53.csv was created
+2023-05-05_11-21-24 [log]: luxmeter mesurement cycle ended
+2023-05-05_11-29-38 [log]: adrien trying to connect 
+2023-05-05_11-29-38 [log]: adrien loging successful 
+2023-05-05_11-29-55 [log]: adrien trying to connect 
+2023-05-05_11-29-55 [log]: adrien loging successful 
+2023-05-05_11-32-30 [log]: adrien trying to connect 
+2023-05-05_11-32-30 [log]: adrien loging successful 
+2023-05-05_11-33-12 [log]: adrien trying to connect 
+2023-05-05_11-33-12 [log]: adrien loging successful 
+2023-05-05_11-33-32 [log]: adrien trying to connect 
+2023-05-05_11-33-32 [log]: adrien loging successful 
+2023-05-05_11-33-50 [log]: adrien trying to connect 
+2023-05-05_11-33-50 [log]: adrien loging successful 
+2023-05-05_11-34-15 [log]: adrien trying to connect 
+2023-05-05_11-34-15 [log]: adrien loging successful 
+2023-05-05_11-37-11 [log]: adrien trying to connect 
+2023-05-05_11-37-11 [log]: adrien loging successful 
+2023-05-05_11-37-47 [log]: adrien trying to connect 
+2023-05-05_11-37-47 [log]: adrien loging successful 
+2023-05-05_11-38-24 [log]: adrien trying to connect 
+2023-05-05_11-38-24 [log]: adrien loging successful 
